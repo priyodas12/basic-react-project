@@ -1,0 +1,16 @@
+{
+  "name": "basic-react-project",
+  "version": "1.0.0",
+  "description": "project for creating react priject from scratch",
+  "keywords": [
+    "react",
+    "scratch"
+  ],
+  "license": "ISC",
+  "author": "priyobrato.das",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  }
+}
